@@ -1,6 +1,6 @@
 h1
 {
-    font-size: 32px;
+    font-size: 40px;
     text-decoration: solid;
     text-align: center;
     margin-left: 15%;
@@ -8,7 +8,7 @@ h1
 }
 body 
 {
-    background-color: #3a94a6;
+    background-color: lightgrey;
     font-size: 30px;
 }
 p
