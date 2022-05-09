@@ -1,5 +1,4 @@
-styles5.css
-#styles4.css
+#styles5.css
 body
 h1
 {
@@ -14,6 +13,7 @@ h1
 }
 body 
 {
+    color: white
     background-color: rgb(189, 39, 39);
     border-style: groove;
     font-size: 20px;
