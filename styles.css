@@ -1,5 +1,5 @@
 /* Basic Tag Styles */
-h1
+h1, h2
 {
     font-size: 40px;
     text-decoration: solid;
@@ -7,6 +7,17 @@ h1
     margin-left: 15%;
     margin-right: 15%;
     padding: 10px;
+}
+h2
+{
+    font-size: 24px;
+}
+h3
+{
+    background-color: cadetblue;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-shadow: 2em;
 }
 body 
 {
@@ -26,7 +37,7 @@ p
 }
 .codeBlock
 {
-    background-color: grey;
+    background-color: lightgrey;
 }
 .button
 {
@@ -42,12 +53,29 @@ p
     padding: 12px;
     transition-duration: 0.2s;
 }
+.option
+{
+    background-color: lightblue;
+}
 
 /* Animations */
 .button:hover
 {
     background-color: rgb(96, 188, 96);
     padding-left: 13px;
+}
+.option:hover
+{
+    background-color: rgb(34, 105, 228);
+}
+.correct:active
+{
+    background-color: rgb(14, 248, 76);
+}
+
+.incorrect:active
+{
+    background-color: red;
 }
 
 /* Button Ids */
@@ -58,9 +86,15 @@ p
     margin-right: 42%;
 }
 
-#answerButton
+#scenarioButton
 {
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 20px;
 }
+
+#answerButton
+{
+    margin-top: 20px;
+}
+
