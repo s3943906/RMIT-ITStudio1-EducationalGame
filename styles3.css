@@ -1,0 +1,51 @@
+#styles4.css
+body
+h1
+{
+    color: white;
+    font-size: 40px;
+    text-decoration: solid;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 10px;
+}
+body 
+{
+    background-color: rgb(255, 255, 255);
+    border-style: groove;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'," Geneva", Verdana, sans-serif;
+    background-image: url("https://r4.wallpaperflare.com/wallpaper/9/843/743/the-lord-of-the-rings-mordor-lava-mountains-wallpaper-091028cd318a4dab6617288f109176ed.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p
+{
+    margin-left: 35%;
+    margin-right: 15%;
+}
+.button
+{
+    display: inline-block;
+    border-radius: 1%;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;    
+    padding: 12px;
+    transition-duration: 0.2s;
+}
+.button:hover
+{
+    background-color: rgb(96, 188, 96);
+    padding-left: 13px;
+}
+#startButton
+{
+    margin-top: 40px;
+    margin-left: 42%;
+    margin-right: 42%;
+}
