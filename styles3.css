@@ -1,8 +1,7 @@
-#styles5.css
+#styles4.css
 body
 h1
 {
-
     color: white;
     font-size: 40px;
     text-decoration: solid;
@@ -13,7 +12,6 @@ h1
 }
 body 
 {
-    color: white;
     background-color: rgb(189, 39, 39);
     border-style: groove;
     font-size: 20px;
