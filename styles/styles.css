@@ -25,7 +25,7 @@ body
     border-style: groove;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'," Geneva", Verdana, sans-serif;
-    background-image: url("back.jpg");
+    background-image: url("../images/back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -56,6 +56,11 @@ p
 .option
 {
     background-color: lightblue;
+}
+.imageOption
+{    
+    display: inline-block;
+    inline-size: 40%;
 }
 
 /* Animations */
@@ -88,9 +93,13 @@ p
 
 #scenarioButton
 {
+    display: inline-flex;
     margin-left: 25%;
     margin-right: 25%;
-    margin-top: 20px;
+    margin-top: 30px;
+    padding-bottom: 2%;
+    height: 30%;
+    width: 30%;
 }
 
 #answerButton
