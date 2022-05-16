@@ -51,11 +51,16 @@ p
     font-weight: bold;
     background-color: lightgreen;    
     padding: 12px;
+    margin-right: 10%;
     transition-duration: 0.2s;
 }
 .option
 {
     background-color: lightblue;
+    margin-left: 7%;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 140px;
 }
 .imageOption
 {    
@@ -68,6 +73,7 @@ p
 {
     background-color: rgb(96, 188, 96);
     padding-left: 13px;
+    box-shadow: 1px 1px;
 }
 .option:hover
 {
@@ -94,7 +100,7 @@ p
 #scenarioButton
 {
     display: inline-flex;
-    margin-left: 25%;
+    margin-left: 20%;
     margin-right: 25%;
     margin-top: 30px;
     padding-bottom: 2%;
