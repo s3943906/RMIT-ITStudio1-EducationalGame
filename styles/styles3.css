@@ -22,7 +22,7 @@ body
 }
 p
 {
-    margin-left: 35%;
+    margin-left: 15%;
     margin-right: 15%;
 }
 .codeBlock
@@ -42,6 +42,8 @@ p
     background-color: lightgreen;    
     padding: 12px;
     margin-right: 10%;
+    margin-left: 25%;
+    margin-top: 65;
     transition-duration: 0.2s;
 }
 .option
