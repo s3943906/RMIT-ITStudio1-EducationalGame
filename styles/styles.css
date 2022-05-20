@@ -62,11 +62,6 @@ p
     padding-left: 20px;
     padding-right: 140px;
 }
-.imageOption
-{    
-    display: inline-block;
-    inline-size: 40%;
-}
 
 /* Animations */
 .button:hover
@@ -78,6 +73,7 @@ p
 .option:hover
 {
     background-color: rgb(34, 105, 228);
+    padding-left: 21px;
 }
 .correct:active
 {

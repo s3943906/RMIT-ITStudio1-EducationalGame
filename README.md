@@ -1,5 +1,0 @@
----> Possible Ideas For Development <---
-- Choose your character (Question 1)
-- Your being attacked, Choose an action (Question 2)
-- Which direction would you like to go (Question 3)
-- You face the boss, how do you want to attack (Question 4)
