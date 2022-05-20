@@ -83,6 +83,7 @@ p
 .option:hover
 {
     background-color: rgb(34, 105, 228);
+    padding-left: 21px;
 }
 .correct:active
 {
