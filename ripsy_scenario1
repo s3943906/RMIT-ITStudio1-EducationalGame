@@ -1,0 +1,19 @@
+<DOCTYPE html>
+
+><html>
+    <head>
+        <link rel="stylesheet" href="styles/styles3.css">
+    </head>
+    <body>
+        <h1>Scenario 1</h1>
+        <p> 
+            You now enter in a small village called Misoland. You find the villagers here are facing oppresion by a brutal dominator. To help the people and become their visio to happy life, you need to go further and fight with the soldiers.
+        </p>
+
+        <p> 
+            Use your skills and defeat the soldiers to move ahead. 
+        </p>
+        <a class="button" href="rdxquestion1.html">FIGHT</a>
+        <a class="button" href="rdxquestion1.html">FLEE</a>
+    </body>   
+</html>
