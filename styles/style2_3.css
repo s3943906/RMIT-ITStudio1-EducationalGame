@@ -56,6 +56,10 @@ p
 .option
 {
     background-color: lightblue;
+    margin-left: 7%;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 140px;
 }
 
 /* Animations */
@@ -67,6 +71,7 @@ p
 .option:hover
 {
     background-color: rgb(34, 105, 228);
+    padding-left: 21px;
 }
 .correct:active
 {

@@ -1,4 +1,4 @@
-public class QuestionOne
+public class QuestionThree
 {
     public static void main(String[] args)
     {
