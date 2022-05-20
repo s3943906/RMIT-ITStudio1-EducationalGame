@@ -17,14 +17,26 @@ body
     border-style: groove;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'," Geneva", Verdana, sans-serif;
-    background-image: url("http://clipart-library.com/images/BTgraAXec.gif");
+    background-image: url("https://gfycat.com/solidenchantedamericanpainthorse");
     background-repeat: no-repeat;
     background-size: cover;
 }
+h4
+{
+    color: white;
+    font-size: 20px;
+    text-decoration: solid;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 10px;
+
+}
 p
 {
-    margin-left: 35%;
+    margin-left: 15%;
     margin-right: 15%;
+    text-align: center;
 }
 .codeBlock
 {
@@ -43,6 +55,8 @@ p
     background-color: lightgreen;    
     padding: 12px;
     margin-right: 10%;
+    margin-left: 25%;
+    margin-top: 65;
     transition-duration: 0.2s;
 }
 .option
