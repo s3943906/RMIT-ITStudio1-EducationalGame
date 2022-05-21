@@ -25,7 +25,7 @@ body
     border-style: groove;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'," Geneva", Verdana, sans-serif;
-    background-image: url("../images/ripy_image.jpeg");
+    background-image: url("../images/background.webp");
     background-repeat: no-repeat;
     background-size: cover;
 }
