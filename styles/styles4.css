@@ -2,27 +2,29 @@
 h1
 {
 
-    color: white;
+    color: black;
     font-size: 40px;
     text-decoration: solid;
     text-align: center;
     margin-left: 15%;
     margin-right: 15%;
     padding: 10px;
+    font-weight: bolder;
+    font-family: 'Almendra SC', serif;
 }
 body 
 {
-    color: white;
+    color: black;
     background-color: rgb(189, 39, 39);
     border-style: groove;
     font-size: 20px;
-    font-family: "Times New Roman", Times, serif;;
-    background-image: url("../images/tower-knight.webp");
+    font-family: "Times New Roman", Times, serif;
+    background-image: url("../images/boss.webp");
     background-size: cover;
 }
-h4
+h3
 {
-    color: white;
+    color: black;
     font-size: 20px;
     text-decoration: solid;
     text-align: center;
