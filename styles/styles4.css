@@ -16,8 +16,8 @@ body
     background-color: rgb(189, 39, 39);
     border-style: groove;
     font-size: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'," Geneva", Verdana, sans-serif;
-    background-image: url("https://i.imgur.com/dbPbQKo.png");
+    font-family: "Times New Roman", Times, serif;;
+    background-image: url("../images/tower-knight.webp");
     background-size: cover;
 }
 h4
@@ -48,7 +48,7 @@ p
     position: relative;
     border-radius: 1%;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"Times New Roman", Times, serif;
     color: black;
     font-size: 24px;
     font-weight: bold;
