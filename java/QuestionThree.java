@@ -2,11 +2,11 @@ public class QuestionThree
 {
     public static void main(String[] args)
     {
-        int numPotato;
-        int numVegetable;
-
-        numPotato = 7;
-        numVegetable = numPotato;
-        numVegetable = numVegetable + 11;
-    }    
+        int num= 13;
+                
+        for(int i=1; i<=10; i++)
+        {
+            System.out.println(num +" x " + i + " = " + (num*i) );
+        }
+    }
 }
