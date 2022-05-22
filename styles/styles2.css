@@ -1,3 +1,4 @@
+
 /* Basic Tag Styles */
 h1, h2
 {
@@ -7,6 +8,7 @@ h1, h2
     margin-left: 15%;
     margin-right: 15%;
     padding: 10px;
+    font-family: 'Almendra SC', serif;
 }
 h2
 {
@@ -25,7 +27,7 @@ body
     border-style: groove;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'," Geneva", Verdana, sans-serif;
-    background-image: url("../images/background.webp");
+    background-image: url("../images/soldierfight.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
