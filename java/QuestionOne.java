@@ -10,3 +10,5 @@ public class QuestionOne
         numVegetable = numVegetable + 11;
     }    
 }
+
+// Correct Answer: 18
