@@ -1,9 +1,8 @@
-
 h1
 {
 
     color: black;
-    font-size: 40px;
+    font-size: 60px;
     text-decoration: solid;
     text-align: center;
     margin-left: 15%;
@@ -35,10 +34,12 @@ h3
 }
 p
 {
+    font-size: 30px;
     margin-left: 15%;
     margin-right: 15%;
     position: relative;
     text-align: center;
+    font-family: "Times New Roman", Times, serif;
 }
 .codeBlock
 {
