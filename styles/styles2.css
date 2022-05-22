@@ -1,0 +1,113 @@
+
+/* Basic Tag Styles */
+h1, h2
+{
+    font-size: 40px;
+    text-decoration: solid;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 10px;
+    font-family: 'Almendra SC', serif;
+}
+h2
+{
+    font-size: 24px;
+}
+h3
+{
+    background-color: cadetblue;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-shadow: 2em;
+}
+body 
+{
+    background-color: lightgrey;
+    border-style: groove;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'," Geneva", Verdana, sans-serif;
+    background-image: url("../images/soldierfight.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p
+{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: "Times New Roman", Times, serif;
+    position: relative;
+    text-align: center;
+}
+.codeBlock
+{
+    background-color: lightgrey;
+}
+.button
+{
+    display: inline-block;
+    position: relative;
+    border-radius: 1%;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+    padding: 12px;
+    margin-right: 10%;
+    margin-left: 25%;
+    margin-top: 65;
+    transition-duration: 0.2s;
+}
+.option
+{
+    background-color: lightblue;
+    margin-left: 7%;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 140px;
+    
+}
+
+/* Animations */
+.button:hover
+{
+    background-color: rgb(96, 188, 96);
+    padding-left: 13px;
+}
+.option:hover
+{
+    background-color: rgb(34, 105, 228);
+    padding-left: 21px;
+}
+.correct:active
+{
+    background-color: rgb(14, 248, 76);
+}
+
+.incorrect:active
+{
+    background-color: red;
+}
+
+/* Button Ids */
+#startButton
+{
+    margin-top: 40px;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+#scenarioButton
+{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+}
+
+#answerButton
+{
+    margin-top: 20px;
+}
+
