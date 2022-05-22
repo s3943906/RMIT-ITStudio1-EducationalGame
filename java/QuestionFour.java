@@ -1,10 +1,15 @@
-public class QuestionFour
+public class QuestionFour 
 {
-    public static void main(String[] args)
+    public static void main ( String [] args ) 
     {
-        int[] arrayN = {1, 3, 5, 6, 4, 3, 1};
-        int a = arrayN[1];
-        int b = arrayN[a - arrayN[arrayN.length-1]];
-        System.out.println(a+b);
-    }    
+        int [] intArr = new int [5];
+        for (int i = 0; i < intArr . length ; i ++) 
+        {
+        intArr [ i ] = i * 2;
+        }
+        for (int i = 0; i < intArr . length ; i ++) 
+        {
+            System . out . print ( intArr [ i ] + ", ") ;
+        }
+    }
 }
